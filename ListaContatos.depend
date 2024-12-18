@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1734448565 source:c:\users\marcos\downloads\listacontatos\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1734448728 c:\users\marcos\downloads\listacontatos\lista.h
+
+1734446258 source:c:\users\marcos\downloads\listacontatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1734462159 source:c:\users\wesley\documents\_ifsp\2024.2\ed1\_projeto_final\listacontatos\listacontatosnova\listacontatos\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1734461086 c:\users\wesley\documents\_ifsp\2024.2\ed1\_projeto_final\listacontatos\listacontatosnova\listacontatos\lista.h
+
+1734461915 source:c:\users\wesley\documents\_ifsp\2024.2\ed1\_projeto_final\listacontatos\listacontatosnova\listacontatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
